@@ -7,33 +7,6 @@
 I’m a Software Engineer with a strong foundation in **frontend engineering, scalable systems, and product-driven development**.  
 I enjoy building clean, reusable UI components, designing efficient APIs, and collaborating across teams to ship reliable, user-centric products.
 
-## 🧠 What I Bring to the Table
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="70%">
-
-- Strong experience in **React, TypeScript, and modern frontend architectures**
-- Proven ability to **build reusable components** and scalable UI systems
-- Backend experience with **Node.js, Express, PostgreSQL, GraphQL**
-- Performance-focused mindset: optimize for **speed, scalability, and maintainability**
-- Comfortable working across **product, design, and engineering teams**
-- Leadership experience mentoring developers and managing complex projects
-
-    </td>
-    <td valign="top" width="30%" align="right">
-      <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx2dWFoajh5d3VqNTh5c2F5aG85MWhkZWM0Mjdid3J3aDdwc3ZwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IE1Qll8oeA6sq1Si0v/200.webp"
-        width="220"
-        alt="Coding illustration"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
-
 ## Tech I enjoy working with
 
 ### Frontend
