@@ -9,7 +9,12 @@ I enjoy building clean, reusable UI components, designing efficient APIs, and co
 
 ## 🧠 What I Bring to the Table
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx2dWFoajh5d3VqNTh5c2F5aG85MWhkZWM0Mjdid3J3aDdwc3ZwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IE1Qll8oeA6sq1Si0v/200.webp" width="300" />
+<span style="float:right; margin-left:20px;">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx2dWFoajh5d3VqNTh5c2F5aG85MWhkZWM0Mjdid3J3aDdwc3ZwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IE1Qll8oeA6sq1Si0v/200.webp"
+    width="280"
+  />
+</span>
 
 - Strong experience in **React, TypeScript, and modern frontend architectures**
 - Proven ability to **build reusable components** and scalable UI systems
@@ -17,6 +22,9 @@ I enjoy building clean, reusable UI components, designing efficient APIs, and co
 - Performance-focused mindset: optimize for **speed, scalability, and maintainability**
 - Comfortable working across **product, design, and engineering teams**
 - Leadership experience mentoring developers and managing complex projects
+
+<br clear="all"/>
+
 
 ## Tech I enjoy working with
 
