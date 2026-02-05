@@ -1,6 +1,6 @@
 ## Hey there :wave:
 
-<img src="https://drive.google.com/file/d/1GgtyvKQoEQLkAFx9yzPmpdDV1Cisovhp/view?usp=sharing" alt="Hello world">
+<img src="/Banner.png" alt="Hello world">
 
 ## About me
 
