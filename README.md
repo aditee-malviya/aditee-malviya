@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 # Hi, I'm Aditee Malviya 👋  
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="28"
+      width="22"
       title="LinkedIn Profile"
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://LINK-TO-YOUR-RESUME" target="_blank">
+  <a href="https://drive.google.com/file/d/166DOGbjp1ovvk3BnGbnkdGdMaYUX26ix/view?usp=sharing" target="_blank">
     <img
       src="https://img.icons8.com/fluency/48/document.png"
-      width="28"
+      width="22"
       title="Resume"
     />
   </a>
