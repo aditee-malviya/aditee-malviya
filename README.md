@@ -52,6 +52,10 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
 - AWS (Lambda, API Gateway)
 - Git, GitHub, Vercel
 - Webpack, Yarn
+  ![React](https://img.shields.io/badge/React-Expert-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue)
+![Node](https://img.shields.io/badge/Node.js-Backend-green)
+
 
 ---
 
