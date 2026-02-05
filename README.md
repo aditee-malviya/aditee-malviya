@@ -1,4 +1,4 @@
-# Hey there :wave:
+## Hey there :wave:
 
 <img src="" alt="Hello world">
 
