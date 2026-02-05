@@ -17,13 +17,22 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="28"
+      title="LinkedIn Profile"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://LINK-TO-YOUR-RESUME" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/document--v1.png" width="28" />
+    <img
+      src="https://img.icons8.com/fluency/48/document.png"
+      width="28"
+      title="Resume"
+    />
   </a>
 </p>
+
 
 
 
