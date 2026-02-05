@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Aditee Malviya 👋  
 
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) • 📄 [Resume](https://LINK-TO-YOUR-RESUME)
+
+
 🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
 
 I’m a Software Engineer with a strong foundation in **frontend engineering, scalable systems, and product-driven development**.  
