@@ -151,7 +151,7 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
   &nbsp;&nbsp;
 
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:aditee.m1@gmail.com">
     <img
       src="https://img.icons8.com/fluency/48/mail.png"
       width="26"
