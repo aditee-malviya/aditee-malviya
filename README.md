@@ -38,23 +38,31 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React, TypeScript, JavaScript (ES6+)
-- Material UI, CSS Grid, Responsive Design
-- Storybook, Vite, Redux, AG Grid
+## 🧰 Technologies I Work With
 
-**Backend**
-- Node.js, Express
-- REST APIs, GraphQL
-- PostgreSQL
+### Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
-**Cloud & Tools**
-- AWS (Lambda, API Gateway)
-- Git, GitHub, Vercel
-- Webpack, Yarn
-  ![React](https://img.shields.io/badge/React-Expert-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue)
-![Node](https://img.shields.io/badge/Node.js-Backend-green)
+### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+</p>
+
+### Tools & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+</p>
 
 
 ---
