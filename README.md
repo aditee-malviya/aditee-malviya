@@ -9,9 +9,7 @@ I enjoy building clean, reusable UI components, designing efficient APIs, and co
 
 ## 🧠 What I Bring to the Table
 
-## 🧠 What I Bring to the Table
-
-<table>
+<table border="0>
   <tr>
     <td valign="top" width="70%">
 
