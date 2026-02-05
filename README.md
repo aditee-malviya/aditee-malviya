@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 # Hi, I'm Aditee Malviya 👋  
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
   </a>
-  <a href="https://LINK-TO-YOUR-RESUME">
-    <img src="https://img.shields.io/badge/Resume-View-success?logo=adobeacrobatreader" />
+  &nbsp;&nbsp;
+  <a href="https://LINK-TO-YOUR-RESUME" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/document--v1.png" width="28" />
   </a>
 </p>
+
 
 
 
