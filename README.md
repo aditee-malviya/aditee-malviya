@@ -41,6 +41,15 @@ I enjoy building clean, reusable UI components, designing efficient APIs, and co
 
 Currently transitioning into a **full-time Software Engineering role at Barclays**, where I’m excited to work on real-world, high-impact systems.
 
+🚀 **Software Engineer | Frontend-leaning Full-Stack Developer**
+
+I build **clean, performant user interfaces** and **reusable frontend systems**  
+with a strong focus on scalability, maintainability, and real-world product needs.
+
+I enjoy turning complex requirements into intuitive experiences and  
+owning features end-to-end — from design decisions to production reliability.
+
+
 ---
 
 ## 🧠 What I Bring to the Table
