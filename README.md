@@ -21,6 +21,6 @@ I’m Aditee Malviya. I build **clean, scalable user interfaces** and **reusable
 
 - [LinkedIn](https://www.linkedin.com/in/aditee-malviya)
 - [Email](mailto:aditee.m1@gmail.com)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aditee-malviya.aditee-malviya&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&text_color=%23FFFFFF&bg_color=%23FFFFFF" width="1" height="1" />
+
 
 
