@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi there 👋. I’m Aditee Malviya. I build **clean, scalable user interfaces** and **reusable frontend systems** with a strong focus on performance and real-world product needs.
+Hi 👋. I’m Aditee Malviya. I build **clean, scalable user interfaces** and **reusable frontend systems** with a strong focus on performance and real-world product needs.
 
 ## Tech I enjoy working with
 
