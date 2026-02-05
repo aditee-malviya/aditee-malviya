@@ -9,7 +9,7 @@ I enjoy building clean, reusable UI components, designing efficient APIs, and co
 
 ## 🧠 What I Bring to the Table
 
-<table border="0>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="70%">
 
@@ -25,11 +25,12 @@ I enjoy building clean, reusable UI components, designing efficient APIs, and co
       <img
         src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx2dWFoajh5d3VqNTh5c2F5aG85MWhkZWM0Mjdid3J3aDdwc3ZwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IE1Qll8oeA6sq1Si0v/200.webp"
         width="220"
-        alt="Coding gif"
+        alt="Coding illustration"
       />
     </td>
   </tr>
 </table>
+
 
 
 
