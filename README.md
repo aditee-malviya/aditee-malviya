@@ -143,10 +143,12 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
   <!-- GitHub -->
   <a href="https://github.com/aditee-malviya" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      width="26"
-      title="GitHub Profile"
-    />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  width="40"
+  style="filter: invert(1);"
+  title="GitHub"
+/>
+
   </a>
   &nbsp;&nbsp;
 
