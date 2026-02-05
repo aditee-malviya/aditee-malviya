@@ -33,10 +33,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!-- spacer -->
-
----
-
 
 🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
 
