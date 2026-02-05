@@ -129,15 +129,37 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn:  <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
+<p>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="22"
-      title="LinkedIn Profile"
+      width="26"
+      title="LinkedIn"
     />
   </a>
-- 💻 GitHub: *You’re already here 😉*
-- 📧 Email: *[add email if you want]*
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/aditee-malviya" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      width="26"
+      title="GitHub Profile"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img
+      src="https://img.icons8.com/fluency/48/mail.png"
+      width="26"
+      title="Email Me"
+    />
+  </a>
+</p>
+
 
 ---
 
