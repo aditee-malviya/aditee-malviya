@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Aditee Malviya 👋  
 
 <p>
-  <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="22"
-      title="LinkedIn Profile"
-    />
-  </a>
+ 
   &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/166DOGbjp1ovvk3BnGbnkdGdMaYUX26ix/view?usp=sharing" target="_blank">
     <img
@@ -135,7 +129,13 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *[add your LinkedIn link]*
+- 💼 LinkedIn:  <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="22"
+      title="LinkedIn Profile"
+    />
+  </a>
 - 💻 GitHub: *You’re already here 😉*
 - 📧 Email: *[add email if you want]*
 
