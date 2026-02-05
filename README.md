@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="left">Hi, I'm Aditee Malviya 👋</h1>
 
 <p align="right">
@@ -33,13 +32,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/fluency/48/document.png" width="26" title="Resume"/>
   </a>
 </p>
-
-<!-- spacer -->
-
----
-
-🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
-
 
 
 🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
