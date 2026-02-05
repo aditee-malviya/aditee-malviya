@@ -23,7 +23,6 @@ with a strong focus on performance and real-world product needs.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
 </p>
 
----
 
 ## 📌 What I’m focused on
 
@@ -32,7 +31,7 @@ with a strong focus on performance and real-world product needs.
 - 🧩 Owning features end-to-end  
 - 🤝 Working closely with product & design  
 
----
+
 
 ## 🌍 Find me around the web
 
