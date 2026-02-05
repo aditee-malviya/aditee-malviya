@@ -33,11 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/fluency/48/document.png" width="26" title="Resume"/>
   </a>
 </p>
-
-
-
-
-
+<hr>
 
 🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
 
