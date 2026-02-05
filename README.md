@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Aditee Malviya 👋  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) • 📄 [Resume](https://LINK-TO-YOUR-RESUME)
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://LINK-TO-YOUR-RESUME">
+    <img src="https://img.shields.io/badge/Resume-View-success?logo=adobeacrobatreader" />
+  </a>
+</p>
+
 
 
 🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
