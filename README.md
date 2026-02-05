@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi, I'm Aditee Malviya 👋</h1>
-
+<p>HI</p>
 <p align="right">
   <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" title="LinkedIn"/>
