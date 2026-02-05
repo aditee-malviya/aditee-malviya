@@ -2,7 +2,7 @@
 
 <!-- Hero image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/hero.png" alt="Aditee Malviya" />
+  <img src="https://drive.google.com/file/d/1GgtyvKQoEQLkAFx9yzPmpdDV1Cisovhp/view?usp=sharing" alt="Aditee Malviya" />
 </p>
 
 ### Software Engineer • Frontend-leaning Full-Stack
@@ -12,7 +12,7 @@ with a strong focus on performance and real-world product needs.
 
 ---
 
-## ⚛️ Tech I enjoy working with
+## Tech I enjoy working with
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React"/>
@@ -24,7 +24,7 @@ with a strong focus on performance and real-world product needs.
 </p>
 
 
-## 📌 What I’m focused on
+## What I’m focused on
 
 - ⚛️ Frontend systems & reusable components  
 - ⚡ UI performance and scalability  
@@ -33,7 +33,7 @@ with a strong focus on performance and real-world product needs.
 
 
 
-## 🌍 Find me around the web
+## Find me around the web
 
 <p>
   <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
