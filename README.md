@@ -1,54 +1,13 @@
-# Hi, I’m Aditee 👋
+# Hey there :wave:
 
-<!-- Hero image -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1GgtyvKQoEQLkAFx9yzPmpdDV1Cisovhp/view?usp=sharing" alt="Aditee Malviya" />
-</p>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-### Software Engineer • Frontend-leaning Full-Stack
+## About me
 
-I build **clean, scalable user interfaces** and **reusable frontend systems**  
-with a strong focus on performance and real-world product needs.
+Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
 
----
+## Get in touch :coffee:
 
-## Tech I enjoy working with
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" title="Express.js" style="filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
-</p>
-
-
-## What I’m focused on
-
-- ⚛️ Frontend systems & reusable components  
-- ⚡ UI performance and scalability  
-- 🧩 Owning features end-to-end  
-- 🤝 Working closely with product & design  
-
-
-
-## Find me around the web
-
-<p>
-  <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" title="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/aditee-malviya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" title="GitHub" style="filter: invert(1);"/>
-  </a>
-  &nbsp;
-  <a href="mailto:aditee.m1@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/mail.png" width="26" title="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/166DOGbjp1ovvk3BnGbnkdGdMaYUX26ix/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/document.png" width="26" title="Resume"/>
-  </a>
-</p>
+- [Personal Blog](https://sagarviradiya.dev)
+- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- [Twitter](https://twitter.com/viradiya_sagar)
