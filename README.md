@@ -13,32 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h1>Hi, I'm Aditee Malviya 👋</h1>
-    </td>
-    <td align="right">
-      <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" title="LinkedIn"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/aditee-malviya" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" title="GitHub" style="filter: invert(1);"/>
-      </a>
-      &nbsp;
-      <a href="mailto:aditee.m1@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/mail.png" width="26" title="Email"/>
-      </a>
-      &nbsp;
-      <a href="https://drive.google.com/file/d/166DOGbjp1ovvk3BnGbnkdGdMaYUX26ix/view?usp=sharing" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/document.png" width="26" title="Resume"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+<h1 align="left">Hi, I'm Aditee Malviya 👋</h1> <p align="right"> <a href="https://www.linkedin.com/in/aditee-malviya" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" title="LinkedIn"/> </a> &nbsp; <a href="https://github.com/aditee-malviya" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" title="GitHub" style="filter: invert(1);"/> </a> &nbsp; <a href="mailto:aditee.m1@gmail.com"> <img src="https://img.icons8.com/fluency/48/mail.png" width="26" title="Email"/> </a> &nbsp; <a href="https://drive.google.com/file/d/166DOGbjp1ovvk3BnGbnkdGdMaYUX26ix/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/fluency/48/document.png" width="26" title="Resume"/> </a> </p>
 
 
 🚀 Software Engineer | Frontend-leaning Full-Stack Developer | Systems Thinker  
