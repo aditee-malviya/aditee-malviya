@@ -53,8 +53,6 @@ Currently transitioning into a **full-time Software Engineering role at Barclays
 
 ## 🛠 Tech Stack
 
-## 🧰 Technologies I Work With
-
 ### Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
